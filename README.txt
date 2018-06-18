@@ -13,7 +13,7 @@ The package contains
 - Use case example coded in app.ts
     - compile (in Visual Studio) into JavaScript to run the example
 
-Documentations for API, design, use cases, and tutorials are available at https://github.com/rageappliedgame/HatAsset/tree/1.2.5-noXML/manual.
+Documentations for API, design, use cases, and tutorials are available at https://github.com/E-Nyamsuren/TwoA/tree/master/manual.
 
 Summary of most important changes in the version 1.2.5 of the TwoA asset:
 - Added a calibration phase: during the first 30 games, changes in player and/or scenario ratings are higher due to bigger K factor (this feature is not validated; use with caution)
