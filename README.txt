@@ -6,7 +6,8 @@ Task: T3.4a
 For any questions contact Enkhbold Nyamsuren via Enkhbold.Nyamsuren [AT] ou [DOT] nl
 
 The package was last updated on 2018.07.31.
-- Added TypeScript API manual inside the 'manual' folder 
+- Added TypeScript API manual inside the 'manual' folder
+
 The package contains
 - Rage Asset Manager in 'TwoA-TypeScript\RageAssetManager' folder
     - refer to the most recent version at https://github.com/rageappliedgame/asset-proof-of-concept-demo_TypeScript
