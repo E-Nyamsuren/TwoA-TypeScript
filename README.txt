@@ -5,15 +5,18 @@ Organization: OUNL
 Task: T3.4a
 For any questions contact Enkhbold Nyamsuren via Enkhbold.Nyamsuren [AT] ou [DOT] nl
 
-The package was last updated on 2018.06.18.
+The package was last updated on 2018.07.31.
+- Added TypeScript API manual inside the 'manual' folder 
 The package contains
 - Rage Asset Manager in 'TwoAV1.2.5-TypeScript\RageAssetManager' folder
     - refer to the most recent version at https://github.com/rageappliedgame/asset-proof-of-concept-demo_TypeScript
 - TwoA asset in 'TwoAV1.2.5-TypeScript\TwoA' folder
+- manual
+    - API documentation and use case descriptions
 - Use case example coded in app.ts
     - compile (in Visual Studio) into JavaScript to run the example
 
-Documentations for API, design, use cases, and tutorials are available at https://github.com/E-Nyamsuren/TwoA/tree/master/manual.
+Additional documentation is available at https://github.com/E-Nyamsuren/TwoA/tree/master/manual.
 
 Summary of most important changes in the version 1.2.5 of the TwoA asset:
 - Added a calibration phase: during the first 30 games, changes in player and/or scenario ratings are higher due to bigger K factor (this feature is not validated; use with caution)
